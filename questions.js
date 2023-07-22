@@ -3,26 +3,26 @@ const Questions = [
     {
         type: "list",
         name: "chosenShape",
-        message: "Pick a shape for your SVG :",
+        message: "Please select a shape for your SVG :",
         choices: ["Circle", "Triangle", "Square"]
     
     },
     {
         type: "input",
         name: "svgColor",
-        message: "Pick color for your SVG. Now you can also use Hex Codes eg: (#305da6) :",
+        message: "Please select your SVG. Now you can also use Hex Codes eg: (#E6E6FA) :",
     
     },
     {
         type: "input",
         name: "text",
-        message: "Add Some text in your SVG (only three words) :",
+        message: "Please add a text in your SVG (three letters max) :",
     
     },
     {
         type: "input",
         name: "textColor",
-        message: "Pick color for your Text. Now you can also use Hex Codes eg: (#ffffff) :"
+        message: "Please select a colour for your text. Now you can also use Hex Codes eg: (#ffffff) :"
     },
     
     
