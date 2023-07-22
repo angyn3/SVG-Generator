@@ -10,7 +10,7 @@ const Questions = [
     {
         type: "input",
         name: "svgColor",
-        message: "Please select your SVG. Now you can also use Hex Codes eg: (#E6E6FA) :",
+        message: "Please select a background colour for your SVG. Now you can also use Hex Codes eg: (#E6E6FA) :",
     
     },
     {
