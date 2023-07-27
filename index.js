@@ -5,8 +5,6 @@ const Questions = require("./questions")
 const {Circle,Square,Triangle} = require("./lib/shapes")
 
 
-
-
 class userInput{
      constructor(){
         this.text = "";
