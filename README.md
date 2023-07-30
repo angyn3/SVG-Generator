@@ -1,4 +1,6 @@
 # SVG-Generator
+![Github license](https://img.shields.io/badge/license-MIT-red.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 GIVEN a command-line application that accepts user input
